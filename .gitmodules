@@ -1,0 +1,6 @@
+[submodule "form-validate-ts-webpack"]
+	path = form-validate-ts-webpack
+	url = https://github.com/JRGCast/formulario-ts-exercicio.git
+[submodule "typescript-from-scratch"]
+	path = typescript-from-scratch
+	url = https://github.com/JRGCast/typescript-from-scratch.git
