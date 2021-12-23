@@ -4,3 +4,6 @@
 [submodule "typescript-from-scratch"]
 	path = typescript-from-scratch
 	url = https://github.com/JRGCast/typescript-from-scratch.git
+[submodule "TS-OOP-with-exercises"]
+	path = TS-OOP-with-exercises
+	url = https://github.com/JRGCast/TS-OOP-learning
